@@ -100,10 +100,10 @@ In the Prefect cloud dashboard, the flows will appear like so:
 ### AWS Cloud Formation -> Databricks Workspace + Warehouse
 Our S3 bucket is linked to our CloudFormation stack, which is housing our Databricks Workspace and Warehouse:
 ##### AWS Cloud Formation
-![AWS Cloud Formation](https://team23-data-load-documentation.s3.us-east-2.amazonaws.com/notebook-images/data-pipeline-warehouse/AWS_databricks_warehouse_stack.png)
+![AWS Cloud Formation](https://team23-data-load-documentation.s3.us-east-2.amazonaws.com/notebook-images/data-pipeline-warehouse/AWS_databricks_warehouse_stack_updated.png)
 
 ##### Databricks Workspace + Warehouse
-![Databricks](https://team23-data-load-documentation.s3.us-east-2.amazonaws.com/notebook-images/data-pipeline-warehouse/databricks_dash.png)
+![Databricks](https://team23-data-load-documentation.s3.us-east-2.amazonaws.com/notebook-images/data-pipeline-warehouse/databricks_dash_updated.png)
 
 ##### Table in Databricks Warehouse
 ![Warehouse Table](https://team23-data-load-documentation.s3.us-east-2.amazonaws.com/notebook-images/data-pipeline-warehouse/databricks_warehouse_table_view.png)
