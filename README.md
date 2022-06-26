@@ -1,5 +1,5 @@
-# data-pipeline-etl
- ETL functions for the DS4A Prefect data pipeline
+# DS4A Data Engineering Capstone: ETL Pipeline and Data Warehouse Deployment
+ ETL pipelines and data warehouse construction and orchestration for the DS4A Data Engineering capstone project.
 
 ## Overview
 For this section of the capstone project, I have used the following resources / tools to build our data pipelines and set up our data warehouse:
